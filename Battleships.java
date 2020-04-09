@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class Battleships {
+public class BattleShips {
 	//Global variables
 	public static int rows = 6;
 	public static int cols = 6;
@@ -11,6 +11,7 @@ public class Battleships {
 	public static Scanner s = new Scanner(System.in);		
 	public static Random r = new Random();
 	public static int sinks = ships.length;
+	
 	//Ship Class
 	public static class ship {		
 		pos positions[];		
@@ -70,7 +71,8 @@ public class Battleships {
 			
 			for(int j = 0; j < ships[0].len; j++) 
 				for(int k = 0; k < ships[1].len; k++) 
-					if(ships[0].positions[j] == ships[1].positions[k])  
+					if(ships[0].positions[j].col == ships[1].positions[k].col 
+						&& ships[0].positions[j].row == ships[1].positions[k].row)  
 						diff = false;			
 		}		
 		
@@ -88,11 +90,13 @@ public class Battleships {
 			
 			for(int j = 0; j < ships[0].len; j++) 
 				for(int k = 0; k < ships[2].len; k++) 
-					if(ships[0].positions[j] == ships[2].positions[k]) 
+					if(ships[0].positions[j].row == ships[2].positions[k].row 
+						&& ships[0].positions[j].col == ships[2].positions[k].col) 
 						diff = false;
 			for(int j = 0; j < ships[1].len; j++) 
 				for(int k = 0; k < ships[2].len; k++) 
-					if(ships[1].positions[j] == ships[2].positions[k]) 
+					if(ships[1].positions[j].row == ships[2].positions[k].row 
+						&& ships[1].positions[j].col == ships[2].positions[k].col) 
 						diff = false;			
 		}			 
 	}
