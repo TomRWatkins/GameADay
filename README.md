@@ -6,6 +6,7 @@ Games completed
 2) Battleships
 3) SpaceInvaders --- Need GameArena and Rectangle classes to use
 4) Snake in javascript
+5) SpaceRace in javascript
 
 To Do:
 Flappy Bird
