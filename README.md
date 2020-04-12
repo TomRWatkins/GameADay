@@ -9,6 +9,7 @@ Games completed
 
 To Do:
 Flappy Bird
-Space Invaders
+Space Invaders JavaScript
 Checkers
 Pong
+Space Race
