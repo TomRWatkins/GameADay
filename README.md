@@ -7,10 +7,10 @@ Games completed
 3) SpaceInvaders Javascript
 4) Snake Javascript
 5) SpaceRace Javascript
+6) FlappyBird Javascript
 
-To Do:
-Flappy Bird
-Space Invaders JavaScript
-Checkers
-Pong
-Space Race
+To Do:\n
+-Space Invaders JavaScript\n
+-Checkers Java\n
+-Pong Java\n
+
