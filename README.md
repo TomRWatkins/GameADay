@@ -9,6 +9,8 @@ Games completed
 5) SpaceRace Javascript
 6) FlappyBird Javascript
 7) TicTacToe Javascript
+8) Guess the number Javascript
+9) Space invaders Java
 
 To Do:\n
 -Space Invaders JavaScript\n
