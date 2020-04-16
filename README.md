@@ -11,6 +11,7 @@ Games completed
 7) TicTacToe Javascript
 8) Guess the number Javascript
 9) Space invaders Java
+10) Chrome Dinosaur game Javascript
 
 To Do:\n
 -Space Invaders JavaScript\n
