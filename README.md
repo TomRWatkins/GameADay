@@ -12,9 +12,9 @@ Games completed
 8) Guess the number Javascript
 9) Space invaders Java
 10) Chrome Dinosaur game Javascript
+11) Password Crack Javascript
 
-To Do:\n
--Space Invaders JavaScript\n
--Checkers Java\n
--Pong Java\n
+
+-Checkers Java
+-Pong JavaScript
 
