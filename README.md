@@ -1,5 +1,5 @@
 # GameADay
-This is a project I started during the Covid19 outbreak whilst in lockdown. These are simple arcade style games articulating fundamental computer science concepts, alorithms and data structures. The goal of this project was put the algorithms and data structures I'd learnt from my Computer Science degree into practise and better my technical skills.
+This is a project I started during the Covid19 outbreak whilst in lockdown. These are simple arcade style games articulating fundamental computer science concepts, alorithms and data structures. The goal of this project was put the algorithms and data structures I'd learnt from my Computer Science degree into practise and better my technical skills. The concepts learned through this project proved extremely beneficial in progressing my skills whilst engaging practically with my degree.
 
 Games completed
 1) Hangman Java
