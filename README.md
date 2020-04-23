@@ -14,7 +14,8 @@ Games completed
 10) Chrome Dinosaur game Javascript
 11) Password Crack Javascript
 
-
--Checkers Java
--Pong JavaScript
+#To Do
+- Checkers Java
+- Pong JavaScript
 - Agro.io Javascript
+- 
