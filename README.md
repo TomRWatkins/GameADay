@@ -13,9 +13,3 @@ Games completed
 9) Space invaders Java
 10) Chrome Dinosaur game Javascript
 11) Password Crack Javascript
-
-#To Do
-- Checkers Java
-- Pong JavaScript
-- Agro.io Javascript
-- 
